@@ -1,17 +1,29 @@
 brand-concepts
 ==============
 
-[Offscale.io](https://offscale.io) / [Sydney Scientific Pty Ltd](https://scientific.sydney)—and possibly Sydney Scientific Foundation Ltd—is seeking brand concepts for websites, apps, and presentations.
+[Offscale.io](https://offscale.io) / [Sydney Scientific Pty Ltd](https://scientific.sydney)—and possibly Sydney Scientific Foundation Ltd—is seeking new concepts for websites, apps, and presentations. Essentially, the goal is giving these brands a recognisable and distinct identity, which clearly and concisely explains: the problems solved; how its solved; and what makes our solution superior.
 
 ## License
-[Open-source](https://en.wikipedia.org/wiki/Open-source_software). ([MIT](https://opensource.org/licenses/MIT) OR [Apache-2.0](https://opensource.org/licenses/Apache-2.0)) multi-licensed. No patents.
+All technology created is 100% [Open-source](https://en.wikipedia.org/wiki/Open-source_software). Under ([MIT](https://opensource.org/licenses/MIT) OR [Apache-2.0](https://opensource.org/licenses/Apache-2.0)) multi-license. No patents.
+
+Justifications include—but are not limited to—increased:
+- **security**; interoperability (e.g.: OS, programming-language, protocol);
+- **extensibility**;
+- **community**: potential;
+- **standardisation**;
+- **onboarding speed**: no signing required;
+- **maintenance**: 1-off delivery for one client could mean long-term free upgrades, if the project is then used by other clients/companies/individuals;
+- **general quality**: especially with automated metrics, that can be advertised & integrated with Github/Gitlab;
+- **development speed**: can rely on libraries produced by others—as well as by us—to produce solutions faster;
+- **attractiveness**: engineers like the idea for various reasons, including above, building their portfolio, and freedom to share ideas openly & publicly.
 
 ---
 
 ## Principles
 Scalable from 1 node to 10,000. Build low-level, functional, structures.
 
-With the excpetion of frontends (e.g.: 3/4 of CDD)—and our multicloud—everything is built with [Rust](https://www.rust-lang.org). Which has serious performance advantages—beating C++ in some benchmarks—while also being safer.
+### Performance
+With the exception of frontends (e.g.: ¾ of [CDD](#compiler-driven-development-cdd))—and our [multicloud](https://en.wikipedia.org/wiki/Multicloud) ([Go](https://golang.org))—everything is built with [Rust](https://www.rust-lang.org). Which has serious performance advantages—beating [C++](https://en.wikipedia.org/wiki/C%2B%2B) in some benchmarks—while also being safer.
 
 ### Scaling on the low end
 Other [Mesos](https://mesos.apache.org/)-based solutions don't come close to 1 node usability. Really 5 minimum, 11 prefered minimum.
