@@ -3,6 +3,15 @@ brand-concepts
 
 [Offscale.io](https://offscale.io) / [Sydney Scientific Pty Ltd](https://scientific.sydney)—and possibly Sydney Scientific Foundation Ltd—is seeking new concepts for websites, apps, and presentations. Essentially, the goal is giving these brands a recognisable and distinct identity, which clearly and concisely explains: the problems solved; how its solved; and what makes our solution superior.
 
+## Slogans/subtitles
+May prove useful, may not, all original:
+- The IT infrastructure space is ripe for change. Docker, Kubernetes and friends have taken over the space, as have AWS, Google, and Azure.
+- Bring it to 1 laptop. Enable deployment from 1 node to 10,000. Any public or private cloud.
+- Build backend & apps, from 1 dev to many teams.
+
+- "Because big companies don't look at small problems"
+- "We build what you promised"
+
 ## License
 All technology created is 100% [Open-source](https://en.wikipedia.org/wiki/Open-source_software). Under ([MIT](https://opensource.org/licenses/MIT) OR [Apache-2.0](https://opensource.org/licenses/Apache-2.0)) multi-license. No patents.
 
